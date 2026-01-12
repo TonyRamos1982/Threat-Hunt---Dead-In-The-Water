@@ -17,7 +17,7 @@ Can we recover?<br>
 
 The MDE logs are your only source of truth. Piece together the final phase of this attack.
 
-🖥️ Environment
+🖥️ [Environment](https://github.com/TonyRamos1982/MiscFiles/blob/main/azuki%20network%20templogy.png)
 
 You are investigating the Azuki Logistics corporate network. Four systems are in scope for this investigation.
 ⚠️ Azuki Logicitics Network
