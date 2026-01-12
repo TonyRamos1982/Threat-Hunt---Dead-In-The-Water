@@ -9,7 +9,7 @@ SITUATION: It's been a week since the initial compromise. You arrive Monday morn
 
 Your CEO needs answers:
 
-How did they get to our backup infrastructure?
+How did they get to our backup infrastructure? /n
 What exactly did they destroy?
 How did the ransomware spread so fast?
 Can we recover?
