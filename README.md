@@ -25,4 +25,6 @@ Four systems are in scope for this investigation. <br>
 
 📄 Evidence - A ransom note was discovered on all encrypted systems.
 
-⚠️ [VIEW RANSOM NOTE](https://www.notion.so/RANSOM-NOTE-2b8cf57416ff8002aea5d5d7d9d60221)
+⚠️ [VIEW RANSOM NOTE](https://www.notion.so/RANSOM-NOTE-2b8cf57416ff8002aea5d5d7d9d60221)<br>
+
+ # 📖 [**INCIDENT REPORT FILE**](https://docs.google.com/document/d/1fiIq0NpyUBjyDgCjc-VdFRtVuIWUlfhw49t9hq-ZARs/edit?usp=sharing)
