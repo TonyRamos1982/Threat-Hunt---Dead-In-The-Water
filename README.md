@@ -1,5 +1,5 @@
 # Threat Hunt Report: Dead In The Water
-![Alt text for the image](./images/your_image_name.png)<br>
+![Alt text for the image](title.png)<br>
 
 INCIDENT BRIEF - Azuki Import/Export - 梓貿易株式会社
 📋 INCIDENT BRIEF - The Azuki Breach Saga - Final Chapter
