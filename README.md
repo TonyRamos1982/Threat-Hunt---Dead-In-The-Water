@@ -17,10 +17,10 @@ Can we recover?<br>
 
 The MDE logs are your only source of truth. Piece together the final phase of this attack.
 
-🖥️ [Environment](https://github.com/TonyRamos1982/MiscFiles/blob/main/azuki%20network%20templogy.png)
+🖥️ Environment
 
 You are investigating the Azuki Logistics corporate network. Four systems are in scope for this investigation.
-⚠️ Azuki Logicitics Network
+⚠️ [Azuki Logicitics Network](https://github.com/TonyRamos1982/MiscFiles/blob/main/azuki%20network%20templogy.png)
 
 📄 Evidence - A ransom note was discovered on all encrypted systems.
 
