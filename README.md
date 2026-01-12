@@ -13,6 +13,7 @@ How did they get to our backup infrastructure? <br>
 What exactly did they destroy?<br>
 How did the ransomware spread so fast?<br>
 Can we recover?<br>
+
 The MDE logs are your only source of truth. Piece together the final phase of this attack.
 
 🖥️ Environment
