@@ -19,7 +19,8 @@ The MDE logs are your only source of truth. Piece together the final phase of th
 
 🖥️ Environment
 
-You are investigating the Azuki Logistics corporate network. Four systems are in scope for this investigation.
+You are investigating the Azuki Logistics corporate network. <br>
+Four systems are in scope for this investigation. <br>
 ⚠️ [Azuki Logicitics Network](https://github.com/TonyRamos1982/MiscFiles/blob/main/azuki%20network%20templogy.png)
 
 📄 Evidence - A ransom note was discovered on all encrypted systems.
